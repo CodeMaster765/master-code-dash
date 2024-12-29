@@ -10,8 +10,9 @@ margin:0;
     height: 200vh;
     display: flex;
     align-items: center;
-    justify-content: center;
-    background-image:URL(https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg);
+   justify-content: center;
+  background-image:URL((https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRmbmdlrWZlbWU.jpg))
+  background-color:wheat;
     
 
 
